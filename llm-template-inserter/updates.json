@@ -4,7 +4,7 @@
             "updates": [
                 {
                     "version": "1.0",
-                    "update_link": "https://github.com/genkoman/public/edit/master/llm-template-inserter/llm-template-inserter-1.0.xpi"
+                    "update_link": "https://github.com/genkoman/public/raw/refs/heads/master/llm-template-inserter/llm-template-inserter_1.0.0.xpi"
                 }
             ]
         }
